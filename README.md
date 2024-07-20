@@ -1,79 +1,165 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+<!--<a name="weather-app">
+    <img src="https://raw.githubusercontent.com/luk3mn/luk3mn/main/soft_cover.png" width="1480">
+</a>-->
 
-# Getting Started
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=Progressin&color=GREEN&style=for-the-badge)
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+<!-- ![image](soft%20(1).png) -->
 
-## Step 1: Start the Metro Server
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
 
-To start Metro, run the following command from the _root_ of your React Native project:
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+    <!-- <img width="300" src="" alt=""/> -->
+    <h3 align="center">Weather App</h3>
 
-```bash
-# using npm
-npm start
+  <p align="center">
+    Mobile application built in react-native
+    <br />
+    <a href="https://github.com/luk3mn/weather-app/README.md"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+  </p>
+</div>
 
-# OR using Yarn
-yarn start
-```
 
-## Step 2: Start your Application
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#documentation">Documentation</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#authors">Authors</a></li>
+    <li><a href="#feedback">Feedback</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
-### For Android
 
-```bash
-# using npm
-npm run android
 
-# OR using Yarn
-yarn android
-```
+<!-- ABOUT THE PROJECT -->
+## About The Project
+<!-- IMAGE (OPCIONAL) -->
 
-### For iOS
+<p align="justify">
 
-```bash
-# using npm
-npm run ios
+</p> 
 
-# OR using Yarn
-yarn ios
-```
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+<p align="right">(<a href="#weather-app">back to top</a>)</p>
 
-## Step 3: Modifying your App
+### Built With
 
-Now that you have successfully run the app, let's modify it.
+* [![React-Native][React-Native]][React-Native-url]
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
+<p align="right">(<a href="#weather-app">back to top</a>)</p>
 
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
 
-## Congratulations! :tada:
 
-You've successfully run and modified your React Native App. :partying_face:
+<!-- GETTING STARTED -->
+## Getting Started
 
-### Now what?
+Here are some important topics about this project and how to replay it.
 
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
+### Prerequisites
 
-# Troubleshooting
+* Node
+* SDK
 
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
+### Installation
 
-# Learn More
+_Before starting this application in your local environment, it'll be necessary to proceed with some tasks to reproduce this project._
 
-To learn more about React Native, take a look at the following resources:
+1. Clone the repo
+   ```sh
+   git clone https://github.com/luk3mn/weather-app.git
+   ```
 
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+<p align="right">(<a href="#weather-app">back to top</a>)</p>
+
+
+
+<!-- USAGE EXAMPLES -->
+<!-- ## Usage -->
+
+<!-- ROADMAP -->
+## Roadmap
+- [x] Init Project
+- [x] react-native-vector-icons/MaterialCommunityIcons
+- [x] @react-navigation/native
+- [x] @react-navigation/bottom-tabs
+
+<p align="right">(<a href="#weather-app">back to top</a>)</p>
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#weather-app">back to top</a>)</p>
+
+
+
+## Authors
+
+- username: [@luk3mn](https://www.github.com/luk3mn)
+
+## Feedback
+
+If you have any feedback, please reach out to us at lucasnunes2030@gmail.com
+
+> Project Link: [https://github.com/luk3mn/weather-app](https://github.com/luk3mn/weather-app)
+
+<p align="right">(<a href="#weather-app">back to top</a>)</p>
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* [React Native Course – Android and iOS App Development](https://www.youtube.com/watch?v=obH0Po_RdWk&list=PLd_MxxglngONZPg8EHUKYXUfBo8BKaZa-&index=3&t=8261s&ab_channel=freeCodeCamp.org)
+
+<p align="right">(<a href="#weather-app">back to top</a>)</p>
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/luk3mn/weather-app.svg?style=for-the-badge
+[contributors-url]: https://github.com/luk3mn/weather-app/graphs/contributors
+[issues-shield]: https://img.shields.io/github/issues/luk3mn/weather-app.svg?style=for-the-badge
+[issues-url]: https://github.com/luk3mn/weather-app/issues
+[forks-shield]: https://img.shields.io/github/forks/luk3mn/weather-app.svg?style=for-the-badge
+[forks-url]: https://github.com/luk3mn/weather-app/network/members
+[stars-shield]: https://img.shields.io/github/stars/luk3mn/weather-app.svg?style=for-the-badge
+[stars-url]: https://github.com/luk3mn/weather-app/stargazers
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/luk3mn/weather-app/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/lucasmaues/
+
+<!-- Stack Shields -->
+[React-Native]: https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-Native-url]: https://reactnative.dev/docs/getting-started
